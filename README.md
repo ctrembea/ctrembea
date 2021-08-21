@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ctrembea
 - 👀 I’m interested in Azure SQL Data platform
 - 🌱 I’m currently learning SQL Workshops and this github course
-- 💞️ I’m looking to collaborate on Azure SQl Tools
+- 💞️ I’m looking to collaborate on Azure SQL Tools
 - 📫 How to reach me on chris.trembearth@gmail.com
 
 <!---
